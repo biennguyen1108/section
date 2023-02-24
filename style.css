@@ -1,0 +1,25 @@
+.frm{
+    height:fit-content;
+    width:500px;
+    background:rgb(130, 211, 238);
+    border-radius: 10%;
+}
+.show{
+    text-align: left;
+    width:500px;
+    height:fit-content;
+    background:rgb(198, 192, 255);
+    border-radius: 10%;
+}
+p{
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color:rgb(19, 77, 96);
+}
+
+p button{
+    text-align: center;
+    margin-bottom: 30px;
+}
